@@ -1,13 +1,13 @@
 # Olá, eu sou Davi! 😁
 
 
-<p>Sou um Desenvolvedor Front-end apaixonado por transformar ideias em <em>interfaces bonitas e funcionais</em>. Tenho foco em experiência do usuário, design responsivo e boas práticas de código, buscando sempre criar aplicações modernas, intuitivas e acessíveis.</p><br>
+<p>I am a Front-end Developer passionate about transforming ideas into <em>beautiful and functional interfaces</em>. I focus on user experience, responsive design, and good coding practices, always striving to create modern, intuitive, and accessible applications. <em>interfaces bonitas e funcionais.</p><br>
 
-<p>Trabalho principalmente com <strong>HTML, CSS e JavaScript</strong>, e estou em constante evolução, explorando novas tecnologias e aprimorando minhas habilidades para entregar soluções cada vez mais eficientes. Gosto de recriar interfaces reais, transformar layouts em código e aprender na prática, sempre atento aos detalhes que fazem a diferença no produto final.</p><br><br>
+<p>I primarily work with <strong>HTML, CSS, and JavaScript</strong>, and I'm constantly evolving, exploring new technologies and improving my skills to deliver increasingly efficient solutions. I enjoy recreating real interfaces, transforming layouts into code, and learning by doing, always paying attention to the details that make all the difference in the final product.</p><br><br>
 
-<p>📧<strong> Contato: </strong>davifreitasreboucas.dev@gmail.com</span></p><br>
+<p>📧<strong> Contact: </strong>davifreitasreboucas.dev@gmail.com</span></p><br>
 
-## 💻 Tecnologias que eu utilizo:
+## 💻 Technologies that I use:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,7 +17,7 @@
 </div><br>
 
 
-## 🌐 Minhas redes:
+## 🌐 My networks:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davifreitas.dev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifreitasdev)
