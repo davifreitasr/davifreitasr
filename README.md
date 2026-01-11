@@ -1,7 +1,7 @@
 # Hello, I'm Davi! 😁
 
 
-<p>I am a Front-end Developer passionate about transforming ideas into <em>beautiful and functional interfaces</em>. I focus on user experience, responsive design, and good coding practices, always striving to create modern, intuitive, and accessible applications. <em>interfaces bonitas e funcionais.</p><br>
+<p>I am a Front-end Developer passionate about transforming ideas into <em>beautiful and functional interfaces</em>. I focus on user experience, responsive design, and good coding practices, always striving to create modern, intuitive, and accessible applications.</p><br>
 
 <p>I primarily work with <strong>HTML, CSS, and JavaScript</strong>, and I'm constantly evolving, exploring new technologies and improving my skills to deliver increasingly efficient solutions. I enjoy recreating real interfaces, transforming layouts into code, and learning by doing, always paying attention to the details that make all the difference in the final product.</p><br><br>
 
